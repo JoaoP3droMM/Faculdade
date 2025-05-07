@@ -12,6 +12,7 @@ O objetivo deste repositório é não apenas documentar meu progresso na faculda
 
 ## Organização 📂
 A estrutura deste repositório está organizada da seguinte maneira:
+- `semestres`: Matérias separadas e dividas por semestre em que foram feitas.
 - `materias`: Trabalhos, anotações e projetos separados por matérias.
 - `extracurricular-nome`: Trabalhos extras curriculares atrelados a faculdade que eu possa vir a fazer.
 
