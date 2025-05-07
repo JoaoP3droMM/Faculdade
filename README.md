@@ -1,4 +1,4 @@
-# 🎓 **Computer Science College** 📚
+# 🎓 **Faculdade Ciência da Computação** 📚
 
 Este repositório contém todos os meus estudos, projetos e atividades acadêmicas realizadas durante o curso de **Bacharelado em Ciência da Computação** na **UDF - Centro Universitário do Distrito Federal**. Aqui, você encontrará um portfólio completo do meu progresso, incluindo:
 
